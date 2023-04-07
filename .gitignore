@@ -132,3 +132,6 @@ dmypy.json
 models/*.pth
 output/*/
 output/**/
+.DS_Store
+*/.DS_Store
+**/.DS_Store
